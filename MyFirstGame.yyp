@@ -173,6 +173,14 @@
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
             }
+        },
+        {
+            "Key": "f1e61a95-a045-4eeb-810e-98b8c80bdb97",
+            "Value": {
+                "id": "3e5b879e-6410-40e0-b342-15bd4c5f8dde",
+                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
