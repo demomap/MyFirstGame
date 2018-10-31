@@ -231,11 +231,27 @@
             }
         },
         {
+            "Key": "9f16e397-340c-45a2-99ac-e363a4bf0344",
+            "Value": {
+                "id": "302f7449-2c04-467a-951b-0fbc6c8ede89",
+                "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a3af46eb-ebda-4c6e-8f20-2ab52cbc3b01",
             "Value": {
                 "id": "ea04bacf-2ab4-4514-b789-06822310ab45",
                 "resourcePath": "fonts\\fnt_score\\fnt_score.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "ad121ce2-0d98-438f-9fb2-c23d829ca77d",
+            "Value": {
+                "id": "7f027080-8862-4c3c-8793-dba3f8d688f2",
+                "resourcePath": "objects\\obj_enemy_spawn\\obj_enemy_spawn.yy",
+                "resourceType": "GMObject"
             }
         },
         {
